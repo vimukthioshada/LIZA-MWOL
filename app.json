@@ -1,11 +1,11 @@
 {
-    "name": "Liza-Mwol",
-    "description": "Liza Mwol is the Modified Version of WhatsAsena, Made By @Chunkinde_padayali with Baileys.",
-    "logo": "https://i.imgur.com/2nYs8dN.jpg",
-    "keywords": ["whatsapp", "userbot", "Liza", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/Chunkindepadayali/LIZA-MWOL",
-    "website":   "https://github.com/Chunkindepadayali/LIZA-MWOL",
-    "success_url": "https://github.com/Chunkindepadayali/LIZA-MWOL",
+    "name": "★彡[ᴍʀ.ᴋᴀᴠᴇᴇ]彡★",
+    "description": "★彡[ᴍʀ.ᴋᴀᴠᴇᴇ]彡★ is the Modified Version of WhatsAsena.",
+    "logo": "https://ibb.co/Cb5nqQd",
+    "keywords": ["whatsapp", "userbot", "kavee", "WhatsAsena",],
+    "repository": "https://github.com/vimukthioshada/LIZA-MWOLL",
+    "website":   "https://github.com/vimukthioshada/LIZA-MWOLL",
+    "success_url": "https://github.com/vimukthioshada/LIZA-MWOLL",
     "stack": "container",
     "env": {
         "LIZA_SESSION": {
@@ -137,12 +137,12 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "  𝐋𝐈𝐙𝐀 𝐌𝐖𝐎𝐋࿐  \n\n   *ωнαтsαρρ вσт™*   \n"
+            "value": " ╚»★«╝ M♥R♥.♥K♥A♥V♥E♥E ╚»★«╝  \n\n   ╚»★«╝ M♥R♥.♥K♥A♥V♥E♥E ╚»★«╝   \n"
         },
         "BOTV2_NAME": {
             "description": "heading for bgm command reply",
             "required": false,
-            "value": "ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ʟɪᴢᴀ ᴍᴏʟ࿐"
+            "value": "╚»★«╝ M♥R♥.♥K♥A♥V♥E♥E ╚»★«╝"
         },
         "BGM_DURATION": {
             "description": "FUNY BGM DURATION  codded by (hunk!nd3 p4d4y41!",
@@ -190,7 +190,7 @@
         "LOGO_NAME": {
             "description": "Set the logo list name",
             "required": true,
-            "value": "ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ʟɪᴢᴀ ᴍᴏʟ࿐"
+            "value": "୧(•̀ᗝ•́)૭ 🄼🅁.🄺🄰🅅🄴🄴 ୧(⇀‸↼‶)૭"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
@@ -200,12 +200,12 @@
         "SONGD": {
             "description": "Customizable song DOWNLOADING message instead of 'Dowloading your song'",
             "required": true,
-            "value": "✮⃝🕊️𝕯𝖔𝖜𝖓𝖑𝖔𝖆𝖉𝖎𝖓𝖌 𝖄𝖔𝖚𝖗 𝕾𝖔𝖓𝖌✮⃝🕊️"
+            "value": "█▓▒­░⡷⠂පොම්ඩක් ඉම්න⠐⢾░▒▓█"
         },
         "SONGU": {
             "description": "Customizable song UPLOADING message instead of 'Uploading your song'",
             "required": true,
-            "value": "✮⃝🕊️✿𝖀𝖕𝖑𝖔𝖆𝖉𝖎𝖓𝖌 𝖄𝖔𝖚𝖗 𝕾𝖔𝖓𝖌✿✮⃝🕊️"
+            "value": "█▓▒­░⡷⠂හරි වගෙයි⠐⢾░▒▓█"
         },
         "ADD_MESSAGE": {
             "description": "Customizable Add Message! Use => default, to change back.",
